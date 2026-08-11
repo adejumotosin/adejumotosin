@@ -19,8 +19,9 @@ My work focuses on turning financial and economic data into practical systems fo
 | [AI Global Macro Hedge Fund Engine](https://github.com/adejumotosin/ai-global-macro-engine) | Quantitative finance | Macro factor construction, regime detection, cross-asset signals, portfolio construction, backtesting |
 | [Global Economic Complexity Investment Scanner](https://github.com/adejumotosin/global-economic-complexity-scanner) | Economics + investing | Country ranking, economic complexity, macro investability, structural opportunity analysis |
 | [VCScout AI](https://github.com/adejumotosin/vcscout-ai) | Alternative data + venture | Startup sourcing, engineering momentum signals, transparent scoring, FastAPI product development |
+| [Earnings Analyzer](https://github.com/adejumotosin/earnings-analyzer) | Equity research + RAG | SEC filings, OCR, semantic retrieval, Gemini analysis, market data, Streamlit research workflow |
 | [Financial RAG Bot](https://github.com/adejumotosin/financial-rag-bot) | Financial AI | PDF ingestion, embeddings, semantic retrieval, FAISS, LLM extraction, validation and comparison |
-| [Africa Financials Extraction](https://github.com/adejumotosin/africa-financials-extraction) | Financial data engineering | Financial-report parsing, structured extraction, normalization and African market data workflows |
+| [Africa Financials Extraction](https://github.com/adejumotosin/africa-financials-extraction) | Financial data engineering | PDF parsing, OCR, table extraction, structured metrics, accounting validation and export |
 | [Fraud Detection](https://github.com/adejumotosin/fraud-detection) | Machine learning | Imbalanced classification, anomaly detection, hybrid modelling, drift analysis and evaluation |
 
 ## Product Engineering
@@ -47,7 +48,7 @@ Financial Data Engineering  Investment Research Automation
 `Python` `Go` `JavaScript` `SQL`
 
 **Data & ML**  
-`pandas` `NumPy` `scikit-learn` `Sentence Transformers` `FAISS` `time-series analysis` `machine learning`
+`pandas` `NumPy` `scikit-learn` `Sentence Transformers` `FAISS` `ChromaDB` `time-series analysis` `machine learning`
 
 **Backend & Product**  
 `FastAPI` `Streamlit` `REST APIs` `Git` `GitHub Actions` `Vercel`
