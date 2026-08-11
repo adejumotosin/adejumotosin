@@ -1,72 +1,127 @@
+<div align="center">
+
 # Oluwatosin Adejumo
 
-### Quantitative Finance | Financial AI | Data Science | Software Engineering
+### Quantitative Finance · Financial AI · Data Science · Software Engineering
 
-I build research tools and data products at the intersection of **finance, artificial intelligence, economics, and software engineering**.
+I build research systems and intelligent products that turn **financial, economic, and alternative data** into usable decisions.
 
-My work focuses on turning financial and economic data into practical systems for investment research, market analysis, decision support, and automation.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://oluwatosin-portfolio-phi.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-adejumotosin-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adejumotosin)
+[![Email](https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tosinadejumo1997@gmail.com)
 
-[Portfolio](https://oluwatosin-portfolio-phi.vercel.app/) · [GitHub](https://github.com/adejumotosin) · [Email](mailto:tosinadejumo1997@gmail.com)
+</div>
 
-## Core Focus
+<br>
 
-`Quantitative Finance` `Financial Machine Learning` `Global Macro` `Alternative Data` `Economic Complexity` `RAG` `Financial Data Engineering` `Full-Stack Products`
+## About
 
-## Featured Technical Projects
+My work sits at the intersection of **markets, machine learning, economics, and software engineering**. I am particularly interested in systems that can research, rank, retrieve, model, backtest, and explain financial information.
 
-| Project | Focus | What it demonstrates |
-| --- | --- | --- |
-| [AI Global Macro Hedge Fund Engine](https://github.com/adejumotosin/ai-global-macro-engine) | Quantitative finance | Macro factor construction, regime detection, cross-asset signals, portfolio construction, backtesting |
-| [Global Economic Complexity Investment Scanner](https://github.com/adejumotosin/global-economic-complexity-scanner) | Economics + investing | Country ranking, economic complexity, macro investability, structural opportunity analysis |
-| [VCScout AI](https://github.com/adejumotosin/vcscout-ai) | Alternative data + venture | Startup sourcing, engineering momentum signals, transparent scoring, FastAPI product development |
-| [Earnings Analyzer](https://github.com/adejumotosin/earnings-analyzer) | Equity research + RAG | SEC filings, OCR, semantic retrieval, Gemini analysis, market data, Streamlit research workflow |
-| [Financial RAG Bot](https://github.com/adejumotosin/financial-rag-bot) | Financial AI | PDF ingestion, embeddings, semantic retrieval, FAISS, LLM extraction, validation and comparison |
-| [Africa Financials Extraction](https://github.com/adejumotosin/africa-financials-extraction) | Financial data engineering | PDF parsing, OCR, table extraction, structured metrics, accounting validation and export |
-| [Fraud Detection](https://github.com/adejumotosin/fraud-detection) | Machine learning | Imbalanced classification, anomaly detection, hybrid modelling, drift analysis and evaluation |
+```text
+Quant Research       Financial AI        Global Macro
+Alternative Data     Economic Complexity Data Engineering
+RAG Systems          Portfolio Analytics Full-Stack Products
+```
+
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [AI Global Macro Engine](https://github.com/adejumotosin/ai-global-macro-engine)
+
+Systematic cross-asset research engine for macro factors, regime detection, signals, portfolio construction, backtesting, and investment-committee output.
+
+`Python` `Macro` `Portfolio Research` `Backtesting`
+
+</td>
+<td width="50%" valign="top">
+
+### [Economic Complexity Scanner](https://github.com/adejumotosin/global-economic-complexity-scanner)
+
+Country research platform combining economic complexity, capability momentum, macro investability, and product adjacency analysis.
+
+`Python` `Economics` `Investment Research` `APIs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [VCScout AI](https://github.com/adejumotosin/vcscout-ai)
+
+Alternative-data venture sourcing platform using public engineering momentum to surface and rank companies for further diligence.
+
+`FastAPI` `Alternative Data` `Scoring` `Venture`
+
+</td>
+<td width="50%" valign="top">
+
+### [Earnings Analyzer](https://github.com/adejumotosin/earnings-analyzer)
+
+Equity-research workflow combining SEC filings, OCR, retrieval, market data, and AI-assisted analysis.
+
+`RAG` `SEC Filings` `Gemini` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Financial RAG Bot](https://github.com/adejumotosin/financial-rag-bot)
+
+Financial-document intelligence system for PDF ingestion, embeddings, semantic retrieval, metric extraction, validation, and comparison.
+
+`FAISS` `Sentence Transformers` `Groq` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### [Africa Financials Extraction](https://github.com/adejumotosin/africa-financials-extraction)
+
+Pipeline for extracting and structuring financial statement data from African listed-company reports, including OCR and accounting validation.
+
+`Python` `OCR` `PDF Parsing` `Financial Data`
+
+</td>
+</tr>
+</table>
 
 ## Product Engineering
 
-### [NeuroPass](https://github.com/adejumotosin/neuropass)
-Mobile-first education PWA with adaptive study workflows, spaced repetition, mistake-bank logic, coach/admin experiences, offline support, and a production-oriented Supabase schema.
+**[NeuroPass](https://github.com/adejumotosin/neuropass)**  
+Adaptive education PWA with study workflows, spaced repetition, progress logic, coach/admin experiences, offline support, and a production-oriented Supabase architecture.
 
-### [Oluwatosin Portfolio](https://github.com/adejumotosin/oluwatosin-portfolio)
-Interactive portfolio and case-study experience built with React, GSAP, responsive UI patterns, and a lightweight social media audit tool.
+**[Oluwatosin Portfolio](https://github.com/adejumotosin/oluwatosin-portfolio)**  
+Interactive portfolio and case-study experience built with React, GSAP, responsive UI patterns, and a lightweight social-media audit tool.
 
-## Research Areas
+## Stack
 
-```text
-Quantitative Finance        Financial Machine Learning
-Global Macro                Portfolio Construction
-Economic Complexity         Alternative Data
-Time-Series Analysis        Retrieval-Augmented Generation
-Financial Data Engineering  Investment Research Automation
-```
+<p>
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Streamlit-111111?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/GitHub_Actions-111111?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
-## Technology
+**Data & AI:** pandas, NumPy, scikit-learn, Sentence Transformers, FAISS, ChromaDB, RAG  
+**Finance:** backtesting, factor modelling, portfolio analytics, macro research, risk analysis, financial-statement extraction
 
-**Languages**  
-`Python` `Go` `JavaScript` `SQL`
+## Current Direction
 
-**Data & ML**  
-`pandas` `NumPy` `scikit-learn` `Sentence Transformers` `FAISS` `ChromaDB` `time-series analysis` `machine learning`
+I am building toward increasingly rigorous **quantitative research, financial machine learning, and research-engineering systems**, with an emphasis on transparent methodology, reproducible analysis, and products that move from research question to usable interface.
 
-**Backend & Product**  
-`FastAPI` `Streamlit` `REST APIs` `Git` `GitHub Actions` `Vercel`
+<div align="center">
 
-**Finance & Research**  
-`backtesting` `factor modelling` `portfolio analytics` `macroeconomic research` `risk analysis` `financial statement extraction`
+### Research → Model → Validate → Build
 
-## Repository Guide
+<sub>Finance and data systems designed to be useful, explainable, and testable.</sub>
 
-My GitHub contains two types of repositories:
-
-- **Portfolio-grade projects:** finance, AI, data, economic research, and production-oriented applications
-- **Learning repositories:** Go exercises, introductory programming work, coursework, and smaller experiments that document technical progression
-
-The projects featured above represent the work I consider most relevant for technical finance, data, AI, and software roles.
-
-## Connect
-
-- Portfolio: [oluwatosin-portfolio-phi.vercel.app](https://oluwatosin-portfolio-phi.vercel.app/)
-- GitHub: [github.com/adejumotosin](https://github.com/adejumotosin)
-- Email: [tosinadejumo1997@gmail.com](mailto:tosinadejumo1997@gmail.com)
+</div>
